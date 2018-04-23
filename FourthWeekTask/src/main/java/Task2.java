@@ -1,9 +1,8 @@
-public class Task2
+class Task2
 {
-    private int cntr = 0;
-
-    public int getThreeNumberCount(int[] numbers)
+    int getThreeNumberCount(int[] numbers)
     {
+        int cntr = 0;
         for (int number : numbers)
         {
             while (number > 0)
