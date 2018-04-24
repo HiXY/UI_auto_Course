@@ -6,6 +6,7 @@ class Coordinates
         int firstx = x1, firtsy = y1, secondx = x2, secondy = y2, thirdx = x3, thirdy = y3;
     }
 }
+
 public class Task1
 {
     Coordinates triangle = new Coordinates(1,2,2,1,3,3);

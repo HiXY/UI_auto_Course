@@ -17,7 +17,7 @@ public class Task3Test
     public void setUpIdUsers ()
     {
         idandemail.put(3, "wrr@mail.ru");
-        ////idandemail.put(4, "qwerty@mail.ru");                    //// uncomment for a negative test
+        ////idandemail.put(4, "qwerty@mail.ru");                    //// uncomment for a negative test in testGetUserEmail()
     }
 
     @Test
@@ -41,9 +41,23 @@ public class Task3Test
     }
 
     @Test
+    public void testNoCurrentUrl()
+    {
+        when(test3.getCurrentUrl()).thenReturn("");
+        assertEquals("No current URL", testurl, test3.getCurrentUrl());
+    }
+
+    @Test
     public void testIsRegisteredUser()
     {
         when(test3.isRegisteredUser(testemail)).thenReturn(true);
-        assertTrue("Is here", test3.isRegisteredUser(testemail));
+        assertTrue("There is no registered user", test3.isRegisteredUser(testemail));
+    }
+
+    @Test
+    public void testIsntRegisteredUser()
+    {
+        when(test3.isRegisteredUser("")).thenReturn(true);
+        assertTrue("There is no registered user", test3.isRegisteredUser(testemail));
     }
 }

@@ -36,8 +36,8 @@
       <file leaf-file-name="Task3Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Task3Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+            <state relative-caret-position="1078">
+              <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#266#283#0" expanded="true" />
@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task2Test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Task2Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Task2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
+            <state relative-caret-position="44">
               <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -63,8 +63,8 @@
       <file leaf-file-name="Task1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Task1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#755#756#0" expanded="true" />
                 <element signature="e#840#841#0" expanded="true" />
@@ -76,8 +76,8 @@
       <file leaf-file-name="Task1Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Task1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="-182">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
+            <state relative-caret-position="-484">
               <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
@@ -113,9 +113,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Task2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task3.java" />
         <option value="$PROJECT_DIR$/src/test/java/Task1Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Task1.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Task3Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Task3Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task1.java" />
       </list>
     </option>
   </component>
@@ -213,43 +213,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Task3Test.testIsRegisteredUser">
+  <component name="RunManager" selected="JUnit.Task3Test.testNoCurrentUrl">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Task1Test.ifEquilateral" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FourthWeekTask" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Task1Test" />
-      <option name="METHOD_NAME" value="ifEquilateral" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Task3Test.anothertestGetCurrentUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FourthWeekTask" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Task3Test" />
-      <option name="METHOD_NAME" value="anothertestGetCurrentUrl" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="Task3Test.testGetCurrentUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FourthWeekTask" />
@@ -292,6 +258,40 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Task3Test" />
       <option name="METHOD_NAME" value="testIsRegisteredUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Task3Test.testIsntRegisteredUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourthWeekTask" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Task3Test" />
+      <option name="METHOD_NAME" value="testIsntRegisteredUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Task3Test.testNoCurrentUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourthWeekTask" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Task3Test" />
+      <option name="METHOD_NAME" value="testNoCurrentUrl" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -359,19 +359,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.test1" />
-      <item itemvalue="JUnit.Task1Test.ifEquilateral" />
       <item itemvalue="JUnit.Task3Test.testGetUserEmail" />
       <item itemvalue="JUnit.Task3Test.testGetCurrentUrl" />
-      <item itemvalue="JUnit.Task3Test.anothertestGetCurrentUrl" />
       <item itemvalue="JUnit.Task3Test.testIsRegisteredUser" />
+      <item itemvalue="JUnit.Task3Test.testIsntRegisteredUser" />
+      <item itemvalue="JUnit.Task3Test.testNoCurrentUrl" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Task3Test.testIsRegisteredUser" />
-        <item itemvalue="JUnit.Task3Test.anothertestGetCurrentUrl" />
+        <item itemvalue="JUnit.Task3Test.testNoCurrentUrl" />
         <item itemvalue="JUnit.Task3Test.testGetCurrentUrl" />
+        <item itemvalue="JUnit.Task3Test.testIsntRegisteredUser" />
+        <item itemvalue="JUnit.Task3Test.testIsRegisteredUser" />
         <item itemvalue="JUnit.Task3Test.testGetUserEmail" />
-        <item itemvalue="JUnit.Task1Test.ifEquilateral" />
       </list>
     </recent_temporary>
   </component>
@@ -389,53 +389,55 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Task3Test_testGetCurrentUrl - 2018.04.19 at 10h 52m 13s.xml">
+    <history-entry file="Task3Test_testIsRegisteredUser - 2018.04.24 at 10h 23m 42s.xml">
+      <configuration name="Task3Test.testIsRegisteredUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Task3Test_testIsRegisteredUser - 2018.04.24 at 10h 24m 34s.xml">
+      <configuration name="Task3Test.testIsRegisteredUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Task3Test_testIsRegisteredUser - 2018.04.24 at 10h 25m 01s.xml">
+      <configuration name="Task3Test.testIsRegisteredUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Task3Test_testIsntRegisteredUser - 2018.04.24 at 10h 25m 04s.xml">
+      <configuration name="Task3Test.testIsntRegisteredUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Task3Test_testGetCurrentUrl - 2018.04.24 at 10h 40m 30s.xml">
       <configuration name="Task3Test.testGetCurrentUrl" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task3Test_anothertestGetCurrentUrl - 2018.04.19 at 10h 57m 03s.xml">
-      <configuration name="Task3Test.anothertestGetCurrentUrl" configurationId="JUnit" />
+    <history-entry file="Task3Test_testNoCurrentUrl - 2018.04.24 at 11h 30m 10s.xml">
+      <configuration name="Task3Test.testNoCurrentUrl" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task3Test_anothertestGetCurrentUrl - 2018.04.19 at 10h 58m 44s.xml">
-      <configuration name="Task3Test.anothertestGetCurrentUrl" configurationId="JUnit" />
+    <history-entry file="Task3Test_testNoCurrentUrl - 2018.04.24 at 11h 32m 27s.xml">
+      <configuration name="Task3Test.testNoCurrentUrl" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task3Test_anothertestGetCurrentUrl - 2018.04.19 at 11h 01m 20s.xml">
-      <configuration name="Task3Test.anothertestGetCurrentUrl" configurationId="JUnit" />
+    <history-entry file="Task3Test_testNoCurrentUrl - 2018.04.24 at 11h 32m 58s.xml">
+      <configuration name="Task3Test.testNoCurrentUrl" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task3Test_anothertestGetCurrentUrl - 2018.04.19 at 11h 02m 03s.xml">
-      <configuration name="Task3Test.anothertestGetCurrentUrl" configurationId="JUnit" />
+    <history-entry file="Task3Test_testNoCurrentUrl - 2018.04.24 at 11h 33m 23s.xml">
+      <configuration name="Task3Test.testNoCurrentUrl" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Task3Test_anothertestGetCurrentUrl - 2018.04.19 at 11h 02m 45s.xml">
-      <configuration name="Task3Test.anothertestGetCurrentUrl" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Task3Test_testIsRegisteredUser - 2018.04.19 at 11h 09m 01s.xml">
-      <configuration name="Task3Test.testIsRegisteredUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Task3Test_testIsRegisteredUser - 2018.04.19 at 11h 10m 53s.xml">
-      <configuration name="Task3Test.testIsRegisteredUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Task3Test_testIsRegisteredUser - 2018.04.19 at 11h 11m 12s.xml">
-      <configuration name="Task3Test.testIsRegisteredUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Task3Test_testIsRegisteredUser - 2018.04.19 at 11h 13m 19s.xml">
-      <configuration name="Task3Test.testIsRegisteredUser" configurationId="JUnit" />
+    <history-entry file="Task3Test_testNoCurrentUrl - 2018.04.24 at 11h 33m 34s.xml">
+      <configuration name="Task3Test.testNoCurrentUrl" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3296582" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3296582" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3296582" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Learn" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -450,7 +452,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3296582" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -639,6 +640,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-484">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -654,22 +672,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Task2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Task3Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
+        <state relative-caret-position="1078">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#266#283#0" expanded="true" />
@@ -679,8 +685,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#755#756#0" expanded="true" />
             <element signature="e#840#841#0" expanded="true" />
@@ -688,20 +694,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Task1Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="44">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
