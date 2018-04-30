@@ -16,41 +16,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Task3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task3.java">
+      <file leaf-file-name="Task1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Task1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="107" selection-start-line="23" selection-start-column="107" selection-end-line="23" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Coordinates.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Coordinates.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-              <folding>
-                <element signature="e#57#58#0" expanded="true" />
-                <element signature="e#82#83#0" expanded="true" />
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#218#219#0" expanded="true" />
-              </folding>
+              <caret column="110" selection-start-column="110" selection-end-column="110" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task3Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Task3Test.java">
+      <file leaf-file-name="Task1Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Task1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1078">
-              <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="594">
+              <caret line="27" column="97" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#266#283#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task2Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Task2Test.java">
+      <file leaf-file-name="Task2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Task2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+              <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task2Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Task2Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="32" column="115" selection-start-line="32" selection-start-column="115" selection-end-line="32" selection-end-column="115" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#611#612#0" expanded="true" />
@@ -60,36 +69,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Task1.java">
+      <file leaf-file-name="Task3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="22">
+              <caret line="1" column="88" selection-start-line="1" selection-start-column="88" selection-end-line="1" selection-end-column="88" />
               <folding>
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task1Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Task1Test.java">
+      <file leaf-file-name="Task3Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Task3Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-182">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="1210">
+              <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#360#377#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-484">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -99,8 +104,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -109,13 +114,14 @@
       <list>
         <option value="$PROJECT_DIR$/profiles.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Task2Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Task2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Task3.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Task1Test.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/Task3Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Coordinates.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Task1Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Task2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Task3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Task3Test.java" />
       </list>
     </option>
   </component>
@@ -131,7 +137,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,6 +187,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -213,17 +219,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Task3Test.testNoCurrentUrl">
+  <component name="RunManager" selected="JUnit.Task3Test.testIsntRegisteredUser">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Task3Test.testGetCurrentUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task1Test.ifRectangular" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FourthWeekTask" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Task3Test" />
-      <option name="METHOD_NAME" value="testGetCurrentUrl" />
+      <option name="MAIN_CLASS_NAME" value="Task1Test" />
+      <option name="METHOD_NAME" value="ifRectangular" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -234,13 +240,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Task3Test.testGetUserEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task3Test.testGetCurrentUrl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FourthWeekTask" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Task3Test" />
-      <option name="METHOD_NAME" value="testGetUserEmail" />
+      <option name="METHOD_NAME" value="testGetCurrentUrl" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -359,19 +365,19 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.test1" />
-      <item itemvalue="JUnit.Task3Test.testGetUserEmail" />
       <item itemvalue="JUnit.Task3Test.testGetCurrentUrl" />
       <item itemvalue="JUnit.Task3Test.testIsRegisteredUser" />
       <item itemvalue="JUnit.Task3Test.testIsntRegisteredUser" />
       <item itemvalue="JUnit.Task3Test.testNoCurrentUrl" />
+      <item itemvalue="JUnit.Task1Test.ifRectangular" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Task3Test.testIsntRegisteredUser" />
+        <item itemvalue="JUnit.Task1Test.ifRectangular" />
         <item itemvalue="JUnit.Task3Test.testNoCurrentUrl" />
         <item itemvalue="JUnit.Task3Test.testGetCurrentUrl" />
-        <item itemvalue="JUnit.Task3Test.testIsntRegisteredUser" />
         <item itemvalue="JUnit.Task3Test.testIsRegisteredUser" />
-        <item itemvalue="JUnit.Task3Test.testGetUserEmail" />
       </list>
     </recent_temporary>
   </component>
@@ -389,12 +395,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Task3Test_testIsRegisteredUser - 2018.04.24 at 10h 23m 42s.xml">
-      <configuration name="Task3Test.testIsRegisteredUser" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Task3Test_testIsRegisteredUser - 2018.04.24 at 10h 24m 34s.xml">
-      <configuration name="Task3Test.testIsRegisteredUser" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Task3Test_testIsRegisteredUser - 2018.04.24 at 10h 25m 01s.xml">
       <configuration name="Task3Test.testIsRegisteredUser" configurationId="JUnit" />
     </history-entry>
@@ -419,6 +419,12 @@
     <history-entry file="Task3Test_testNoCurrentUrl - 2018.04.24 at 11h 33m 34s.xml">
       <configuration name="Task3Test.testNoCurrentUrl" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Task1Test_ifRectangular - 2018.04.27 at 20h 09m 59s.xml">
+      <configuration name="Task1Test.ifRectangular" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Task3Test_testIsntRegisteredUser - 2018.04.27 at 23h 25m 43s.xml">
+      <configuration name="Task3Test.testIsntRegisteredUser" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
@@ -426,18 +432,17 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3296582" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50104165" side_tool="true" weight="0.3296582" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3296582" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287827" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49895832" weight="0.2377702" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26154673" />
       <window_info id="Learn" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -452,10 +457,16 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3287827" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -468,8 +479,113 @@
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
           <folding>
-            <element signature="e#57#58#0" expanded="true" />
-            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3168">
+          <caret line="144" column="44" selection-start-line="144" selection-start-column="44" selection-end-line="144" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#141#142#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
@@ -506,7 +622,7 @@
           <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#266#283#0" expanded="true" />
+            <element signature="e#360#377#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -516,8 +632,8 @@
         <state relative-caret-position="198">
           <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
           <folding>
-            <element signature="e#57#58#0" expanded="true" />
-            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#141#142#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
@@ -611,13 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Task1Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -633,37 +742,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="144" column="44" selection-start-line="144" selection-start-column="44" selection-end-line="144" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Coordinates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="110" selection-start-column="110" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="107" selection-start-line="23" selection-start-column="107" selection-end-line="23" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <caret line="2" column="87" selection-start-line="2" selection-start-column="87" selection-end-line="2" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Task1Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="401">
+          <caret line="32" column="115" selection-start-line="32" selection-start-column="115" selection-end-line="32" selection-end-column="115" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-484">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="22">
+          <caret line="1" column="88" selection-start-line="1" selection-start-column="88" selection-end-line="1" selection-end-column="88" />
           <folding>
-            <element signature="e#57#58#0" expanded="true" />
-            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#141#142#0" expanded="true" />
             <element signature="e#191#192#0" expanded="true" />
@@ -672,36 +797,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Task1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="97" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Task3Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="1210">
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#266#283#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Task1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Task2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#360#377#0" expanded="true" />
           </folding>
         </state>
       </provider>

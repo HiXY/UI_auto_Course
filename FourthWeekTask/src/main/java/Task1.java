@@ -1,17 +1,8 @@
-class Coordinates
-{
-    int firstx = 0, firtsy = 0, secondx = 0, secondy = 0, thirdx = 0, thirdy = 0;
-    Coordinates(int x1, int y1, int x2, int y2, int x3, int y3)
-    {
-        int firstx = x1, firtsy = y1, secondx = x2, secondy = y2, thirdx = x3, thirdy = y3;
-    }
-}
-
 public class Task1
 {
     Coordinates triangle = new Coordinates(1,2,2,1,3,3);
 
-    public int[] getCoordinates(Coordinates prottriangle)
+    public int[] getCoordinates(Coordinates prottriangle)                          //// method for getting coordinates
     {
         return new int[] {
                 Math.abs(prottriangle.firstx - prottriangle.secondx),
@@ -22,7 +13,7 @@ public class Task1
                 Math.abs(prottriangle.thirdy - prottriangle.firtsy)};
     }
 
-    public double[] lengthCalculating(int arr [])
+    public double[] lengthCalculating(int arr [])                               //// calculating length of sides
     {
         double lengthfirst = Math.sqrt(arr[0] * arr[0] + arr[1] * arr[1]);
         double lengthsecond = Math.sqrt(arr[2] * arr[2] + arr[3] * arr[3]);
@@ -30,7 +21,7 @@ public class Task1
 
         return new double[] {lengthfirst, lengthsecond, lengththird};
     }
-
+                                                                              //// triangle type definition
     boolean ifEquilateral(double[] arr)
    {
        return ((arr[0] == arr[1]) && (arr[1] == arr[2]));

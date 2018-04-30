@@ -13,7 +13,7 @@ public class Task2Test
     private static final Map<Integer, int[]> datatests = new HashMap<Integer, int[]>();
 
     @Before
-    public void setUpDataTests ()
+    public void setUpDataTests ()                                               //// data setting
     {
         datatests.put(4, new int[]{1, 13, 33, 3, 0});
         datatests.put(3, new int[]{333, 0, 111});
@@ -21,7 +21,7 @@ public class Task2Test
         datatests.put(6, new int[]{13, 133});
     }
 
-    @After
+    @After                                                                      //// clearing data
     public void tearDownDataTests()
     {
         datatests.clear();
@@ -30,7 +30,7 @@ public class Task2Test
     private Task2 task2 = new Task2();
 
     @Test
-    public void testGetThreeNumberCount()
+    public void testGetThreeNumberCount()                                      //// testing main method of the task
     {
         for (Map.Entry<Integer, int[]> entry : datatests.entrySet())
         {

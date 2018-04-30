@@ -1,5 +1,5 @@
 public class Task3
-{
+{                                                               //// examples of methods
     String getUserEmail(int id)
     {
         return "";

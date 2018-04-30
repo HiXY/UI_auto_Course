@@ -4,7 +4,7 @@ import org.junit.experimental.categories.Category;
 import static org.junit.Assert.*;
 
 
-
+                                                        //// categories of tests
 interface Equaltriangle {}
 interface Rectangulartriangle {}
 interface Isoscelestriangle {}
@@ -12,7 +12,7 @@ interface Isoscelestriangle {}
 public class Task1Test
 {
     private Task1 task1 = new Task1();
-    double[] arrforeq = {1, 1, 1};
+    double[] arrforeq = {3, 4, 5};                      //// example of triangle (lengths of sides)
 
     @Test
     public void getCoordinates()
@@ -25,7 +25,7 @@ public class Task1Test
     }
 
 
-    @Test
+    @Test                                               //// test for definition type of triangle
     @Category(Equaltriangle.class)
     public void ifEquilateral()
     {
