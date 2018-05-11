@@ -18,11 +18,11 @@ class Task3
         Actions actions = new Actions(driver);
 
         WebElement element = driver.findElement(By.xpath("//span[@class = 'photo__action js-show_photo']"));
-        actions.moveToElement(element).click().pause(1100).build().perform();
+        actions.moveToElement(element).click().pause(5000).build().perform();
 
-        actions.moveToElement(driver.findElement(By.xpath("//span[@class = 'icon icon_control_next']"))).click().pause(1100).build().perform();
+        actions.moveToElement(driver.findElement(By.xpath("//span[@class = 'icon icon_control_next']"))).click().pause(3000).build().perform();
 
-        actions.moveToElement(driver.findElement(By.xpath("//span[@class = 'icon icon_control_previous']"))).click().pause(1100).build().perform();
+        actions.moveToElement(driver.findElement(By.xpath("//span[@class = 'icon icon_control_previous']"))).click().pause(3000).build().perform();
 
         actions.moveToElement(driver.findElement(By.xpath("//span[@class = 'icon icon_close']"))).click().build().perform();
     }

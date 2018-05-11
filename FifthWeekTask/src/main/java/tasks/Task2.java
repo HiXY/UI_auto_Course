@@ -26,7 +26,7 @@ class Task2
 
         while((driver.findElement(By.xpath("//button[@name = 'clb28641920']")).isDisplayed()) && (previous_size < present_size))
         {
-            actions.moveToElement(driver.findElement(By.xpath("//button[@name = 'clb28641920']"))).click().pause(1100).build().perform();
+            actions.moveToElement(driver.findElement(By.xpath("//button[@name = 'clb28641920']"))).click().pause(1500).build().perform();
             List<WebElement> articlesafterpress = driver.findElements(By.xpath("//div[@class = 'pypo-item js-pgng_item']"));
             previous_size = present_size;
             present_size = articlesafterpress.size();

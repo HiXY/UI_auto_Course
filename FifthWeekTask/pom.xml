@@ -41,6 +41,13 @@
             <artifactId>selenium-java</artifactId>
             <version>3.11.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>6.8</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <profiles>
@@ -57,29 +64,18 @@
                     </configuration>
                     </plugin>
                     <plugin>
+                        <groupId>org.codehaus.mojo</groupId>
+                        <artifactId>selenium-maven-plugin</artifactId>
+                        <version>2.3</version>
+                    </plugin>
+                    <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-surefire-plugin</artifactId>
                         <version>2.12</version>
-
-                        <dependencies>
-                            <dependency>
-                                <groupId>org.apache.maven.surefire</groupId>
-                                <artifactId>surefire-junit47</artifactId>
-                                <version>2.12</version>
-                            </dependency>
-
-                            <dependency>
-                                <groupId>org.seleniumhq.selenium</groupId>
-                                <artifactId>selenium-java</artifactId>
-                                <version>3.11.0</version>
-                            </dependency>
-                        </dependencies>
                         <configuration>
-                                <parallel>all</parallel>
-                                <threadCount>2</threadCount>
-                                <perCoreThreadCount>false</perCoreThreadCount>
-                                <useUnlimitedThreads>true</useUnlimitedThreads>
-                            <groups>Test1</groups>
+                            <suiteXmlFiles>
+                                <suiteXmlFile>test1.xml</suiteXmlFile>
+                            </suiteXmlFiles>
                         </configuration>
                     </plugin>
                 </plugins>
