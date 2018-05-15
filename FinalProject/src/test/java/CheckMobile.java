@@ -16,14 +16,14 @@ public class CheckMobile
     private WebDriver driver;
 
     @Before
-    public void init()
+    public void init()                                              //// webdriver initialization
     {
         System.setProperty("webdriver.chrome.driver", "/home/antihixy/Desktop/chromedriver");
         driver = new ChromeDriver();
     }
 
     @After
-    public void close()
+    public void close()                                             //// closing webdriver
     {
         if (driver != null)
         {
@@ -36,16 +36,16 @@ public class CheckMobile
     public void mobile_and_back ()
     {
         String version;
-        driver.get("https://news.mail.ru/");
+        driver.get("https://news.mail.ru/");                                    //// getting starting url
         Actions action = new Actions(driver);
 
-        WebElement mobilelink = driver.findElement(By.xpath("//a[@href = '/go-mobile/']"));
+        WebElement mobilelink = driver.findElement(By.xpath("//a[@href = '/go-mobile/']")); //// getting mobile link
         action.moveToElement(mobilelink).pause(3000).click().build().perform();
 
-        WebElement normallink = driver.findElement(By.xpath("//a[@href = '/go-web/']"));
+        WebElement normallink = driver.findElement(By.xpath("//a[@href = '/go-web/']"));    //// getting normal link
         action.moveToElement(normallink).pause(3000).click().build().perform();
 
-        if (driver.findElement(By.xpath("//a[@href = '/go-mobile/']")).isDisplayed())
+        if (driver.findElement(By.xpath("//a[@href = '/go-mobile/']")).isDisplayed())       //// if our transition success
         {
             version = "Full";
         }
@@ -54,7 +54,7 @@ public class CheckMobile
             version = "Mobile";
         }
 
-        assertEquals("Full", version);
+        assertEquals("Full", version);                                //// print assertion if transition isn't correct
 
     }
 }
