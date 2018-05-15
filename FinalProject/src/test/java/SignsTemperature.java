@@ -39,7 +39,7 @@ public class SignsTemperature
     @Description("Testing existence signs before the numbers")
     public void catchingsigns ()
     {
-        driver.get("https://pogoda.mail.ru/country/russia/");           //// get starting url
+        driver.get("https://pogoda.mail.ru/country/russia/");           //// getting start page
         String number;
                                                                         //// collecting temperatures
         List<WebElement> temperatures = driver.findElements(By.xpath("//span[@class = 'city-list__val city-list__val-temperature']"));

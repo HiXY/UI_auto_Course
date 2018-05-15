@@ -36,14 +36,14 @@ public class CheckMobile
     public void mobile_and_back ()
     {
         String version;
-        driver.get("https://news.mail.ru/");                                    //// getting starting url
+        driver.get("https://news.mail.ru/");                                    //// getting start page
         Actions action = new Actions(driver);
 
         WebElement mobilelink = driver.findElement(By.xpath("//a[@href = '/go-mobile/']")); //// getting mobile link
-        action.moveToElement(mobilelink).pause(3000).click().build().perform();
+        action.pause(3000).moveToElement(mobilelink).click().build().perform();
 
         WebElement normallink = driver.findElement(By.xpath("//a[@href = '/go-web/']"));    //// getting normal link
-        action.moveToElement(normallink).pause(3000).click().build().perform();
+        action.pause(3000).moveToElement(normallink).click().build().perform();
 
         if (driver.findElement(By.xpath("//a[@href = '/go-mobile/']")).isDisplayed())       //// if our transition success
         {

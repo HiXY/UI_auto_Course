@@ -34,11 +34,12 @@ public class NewsNotFound
     @Description("Testing transition to News main page.")
     public void click_and_transition()
     {
-        driver.get("https://news.mail.ru/404/");                    //// getting statring url
+        driver.get("https://news.mail.ru/404/");                    //// getting start page
         Actions action = new Actions(driver);
+        action.pause(6000);
 
         WebElement link = driver.findElement(By.xpath("//a[@href = '/']"));     //// found url for transition and transit
-        action.pause(10000).moveToElement(link).click().build().perform();
+        action.moveToElement(link).click().build().perform();
 
         String url = driver.getCurrentUrl();                                    //// checking if our transition is successful
 

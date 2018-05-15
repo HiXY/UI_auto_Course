@@ -33,7 +33,7 @@ public class Subscription
     @Description("Testing apperaing subscription after scrolling down the page")
     public void subscription ()
     {
-        driver.get("https://pogoda.mail.ru/prognoz/moskva/ ");          //// get starting url
+        driver.get("https://pogoda.mail.ru/prognoz/moskva/ ");          //// getting start page
         JavascriptExecutor js = (JavascriptExecutor) driver;
         Actions action = new Actions(driver);
 
